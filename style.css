@@ -1,0 +1,36 @@
+body {
+    font-family: 'Comic sans ms', sans-serif;
+    background: #01ffb3;
+}
+
+.header_div{
+  
+    background: rgb(222, 230, 117);
+    color: violet;
+}
+.header_div p{
+  
+    font-family: 'Kristen ITC', sans-serif ;
+    color: #383838;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+
+    color: aliceblue;
+    font-family: 'Verdana', sans-serif;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+    width: 130px;
+}
+.copy_right_footer{
+    background-color: rgb(40, 255, 111);
+    color: rgb(114, 1, 155);
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+text-align: center;
+line-height: 3;
+font-size: 20px;
+}
